@@ -4,8 +4,8 @@ We all know everything (matter) is made up of vibrations. But the real question 
 # About
 "We all know everything (matter) is made up of vibrations. But the real question is: how are these vibrations connected within each other in the world? When an opportunity appears exactly when you need it—this repo tries to explain the engineering behind how those invisible waves interact and bring things to us."
 
-# 1. The Core Concept
-If everything is a vibration, then nothing is truly separate. This repository explores the mechanics of how these waves overlap and create the "connections" we experience in daily life.
+# 1. My Core Concept
+If everything is a vibration, then nothing is truly separate. This repo explores the mechanics of how these waves overlap and create the "connections" we experience in daily life.
 
 ## The Transmitter Model: 
 Every person acts as a biological oscillator, constantly emitting and receiving very low-frequency waves.
