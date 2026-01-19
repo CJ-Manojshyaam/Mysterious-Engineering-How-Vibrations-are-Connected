@@ -1,0 +1,34 @@
+<svg width="800" height="350" viewBox="0 0 800 350" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="800" height="350" fill="#ffffff"/>
+
+    <style>
+        .wave-thin { stroke: #e0e0e0; stroke-width: 1.5; fill: none; stroke-linecap: round; }
+        .wave-medium { stroke: #a0a0a0; stroke-width: 2; fill: none; stroke-linecap: round; }
+        .resonance-bridge { stroke: #000000; stroke-width: 4; fill: none; stroke-linecap: round; }
+        .emitter-node { fill: #000000; }
+        .text-title { font-family: Helvetica, Arial, sans-serif; font-size: 24px; font-weight: 300; letter-spacing: 4px; fill: #000000; text-anchor: middle; }
+        .text-sub { font-family: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 300; letter-spacing: 2px; fill: #666666; text-anchor: middle; }
+    </style>
+
+    <line x1="100" y1="175" x2="700" y2="175" class="wave-thin" stroke-dasharray="5,5"/>
+
+    <circle cx="100" cy="175" r="8" class="emitter-node"/>
+    <path d="M 130 175 A 30 30 0 0 1 130 175" class="wave-thin"/> <path d="M 160 140 A 70 70 0 0 1 160 210" class="wave-thin"/>
+    <path d="M 220 110 A 130 130 0 0 1 220 240" class="wave-medium"/>
+    <path d="M 280 80 A 190 190 0 0 1 280 270" class="wave-medium"/>
+
+    <circle cx="700" cy="175" r="8" class="emitter-node"/>
+    <path d="M 670 175 A 30 30 0 0 0 670 175" class="wave-thin"/> <path d="M 640 140 A 70 70 0 0 0 640 210" class="wave-thin"/>
+    <path d="M 580 110 A 130 130 0 0 0 580 240" class="wave-medium"/>
+    <path d="M 520 80 A 190 190 0 0 0 520 270" class="wave-medium"/>
+
+    <path d="M 340 175 C 340 130, 460 130, 460 175 C 460 220, 340 220, 340 175 Z" fill="none" stroke="#e0e0e0" stroke-width="1"/>
+    <line x1="340" y1="175" x2="460" y2="175" class="resonance-bridge"/>
+    
+    <line x1="400" y1="140" x2="400" y2="210" class="wave-medium"/>
+    <line x1="370" y1="155" x2="370" y2="195" class="wave-thin"/>
+    <line x1="430" y1="155" x2="430" y2="195" class="wave-thin"/>
+
+    <text x="400" y="300" class="text-title">MYSTERIOUS ENGINEERING</text>
+    <text x="400" y="325" class="text-sub">HOW VIBRATIONS ARE CONNECTED</text>
+</svg>
