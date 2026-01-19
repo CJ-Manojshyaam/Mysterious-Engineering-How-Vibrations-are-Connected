@@ -17,7 +17,7 @@ When two people or an opportunity and a person meet, their waves interfere. If t
 We don't just "find" things; we tune into them. Connection happens when our internal frequency matches the frequency of what we are seeking. Because these waves are so low-frequency, distance doesn't matter—the connection is through the field itself.
 
 # 2. Foundations of the Field
-This "Mysterious Engineering" is built on the simple truths shared by the greatest minds in history:
+This is built on the simple truths shared by the greatest minds in history:
 
 Nikola Tesla: "If you want to find the secrets of the universe, think in terms of energy, frequency and vibration."
 
